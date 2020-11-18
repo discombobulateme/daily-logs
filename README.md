@@ -12,6 +12,8 @@ Language progress
 - `@python`
 - `@database`
 - `@vuejs`
+- `@applications`
+- `@integration`
 
 Other skills
 - `@selfmanagement`
