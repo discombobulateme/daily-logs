@@ -24,7 +24,14 @@ Other skills
 
 @applications
 - Research how to add environment variables into GitHub Actions
-- Work on adding GitHub action into Automated OSS Checker project
+- GitHub actions: adding Secret to repository, sending an email action
+- GitHub actions: scheduled to send public repositories report from a test email to ospo email
+
+@nodejs
+- How to convert console.log into txt using:
+´´´
+node script-file.js > log-file.txt
+´´´
 
 ## The Weekend
 
