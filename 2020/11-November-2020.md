@@ -55,7 +55,12 @@ node script-file.js > log-file.txt
 
 ## Friday 2020-11-20
 @integration
-- GitHib actions: also not working with only one repo (Daniel's test)
+- GitHub actions: also not working with only one repo (Daniel's test)
+- GitHub actions: steps order were wrong. Now its fixed 🥳 after a pair programing with Christian
+- Added artifacts to save file
+
+@javascript
+- Learned how to separate concerns and have a utils file. That allows user to choose if this part of the code should be used in different times and creates a clean code
 
 ## The Weekend
 
