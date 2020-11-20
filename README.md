@@ -7,19 +7,20 @@ Daily logs are in Markdown format
 Almost every task is tagged with its type, the valid tags are below:
 
 Language progress
+- `@applications`
+- `@database`
+- `@integration`
 - `@javascript`
 - `@nodejs`
 - `@python`
-- `@database`
+- `@test`
 - `@vuejs`
-- `@applications`
-- `@integration`
 
 Other skills
+- `@community`
+- `@opensource`
 - `@selfmanagement`
 - `@teamwork`
-- `@opensource`
-- `@community`
 
 The dates follow YYYY-MM-DD format, for example `2020-05-27`
 This is a way to measure my learning and understanding the direction my career path is taking
