@@ -1,18 +1,4 @@
 # November 2020
-Language progress
-- `@javascript`
-- `@nodejs`
-- `@python`
-- `@database`
-- `@vuejs`
-- `@applications`
-- `@integration`
-
-Other skills
-- `@selfmanagement`
-- `@teamwork`
-- `@opensource`
-- `@community`
 
 ## Wednesday 2020-11-18
 
@@ -61,6 +47,12 @@ node script-file.js > log-file.txt
 
 @javascript
 - Learned how to separate concerns and have a utils file. That allows user to choose if this part of the code should be used in different times and creates a clean code
+
+@nodejs
+- Writing CLI Command-Line-Interface by using process.argv = short for 'argument values'
+
+@test
+- Add jest in test environment
 
 ## The Weekend
 
