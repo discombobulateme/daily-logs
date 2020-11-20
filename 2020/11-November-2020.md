@@ -1,5 +1,4 @@
 # November 2020
-## Wednesday 2020-11-18
 Language progress
 - `@javascript`
 - `@nodejs`
@@ -14,6 +13,8 @@ Other skills
 - `@teamwork`
 - `@opensource`
 - `@community`
+
+## Wednesday 2020-11-18
 
 @selfmanagement
 - Create an excell spreedsheet to log sprint learnings and match with bigger milestones. Milestones are based on: Sauce Labs Career Level document and OSPO Intern Tasks
@@ -32,6 +33,29 @@ Other skills
 ´´´
 node script-file.js > log-file.txt
 ´´´
+
+## Thursday 2020-11-19
+
+@integration
+- Challenge to transform my local code into a pipeline
+- Understood what a pipeline is
+- GitHub actions as CI: creating a series of actions = reading my code
+- GitHub actions timeout. Possibility: issue on clonning a repo in the cloud
+
+@opensource
+- Updating OSPO website with infographic image about how to release an OS project
+
+@teamwork
+- Team feedback: held accountable about creating more workload to team when inventing new projects without sync with team first
+- Pair programmed with another engineer colleague (accepting help)
+
+@selfmanagement
+- Asking questions: by asking the wrong question or not giving the proper example/ full information, people waste a lot of time :/
+
+
+## Friday 2020-11-20
+@integration
+- GitHib actions: also not working with only one repo (Daniel's test)
 
 ## The Weekend
 
