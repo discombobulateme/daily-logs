@@ -6,14 +6,17 @@ This journey starts in [2020](./2020) as an intern for the [Open Source Program 
 Daily logs are in Markdown format
 Almost every task is tagged with its type, the valid tags are below:
 
-Language progress
+Skills
 - `@applications`
 - `@database`
 - `@integration`
+- `@testing`
+
+Language
 - `@javascript`
+- `@typescript`
 - `@nodejs`
 - `@python`
-- `@test`
 - `@vuejs`
 
 Other skills
