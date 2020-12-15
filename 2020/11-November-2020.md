@@ -51,10 +51,9 @@ node script-file.js > log-file.txt
 @nodejs
 - Writing CLI Command-Line-Interface by using process.argv = short for 'argument values'
 
-@test
+@testing
 - Add jest in test environment
 
 ## The Weekend
 
 -
-
